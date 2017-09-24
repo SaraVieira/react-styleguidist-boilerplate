@@ -16,7 +16,7 @@
     "build": "styleguidist build",
     "lint": "eslint src",
     "jest": "jest --env=jsdom",
-    "test": "npm run lint && npm run test",
+    "test": "run-s lint jest",
     "eject": "react-scripts eject",
     "precommit": "lint-staged"
   },

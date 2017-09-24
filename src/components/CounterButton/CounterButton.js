@@ -3,7 +3,7 @@ import React, { Component } from "react";
 /**
  * Button that counts how many times it was pressed and exposes a `@public` method to reset itself.
  */
-export default class CounterButton extends Component {
+class CounterButton extends Component {
   constructor() {
     super();
     this.state = {
@@ -42,3 +42,5 @@ export default class CounterButton extends Component {
     );
   }
 }
+
+export default CounterButton;

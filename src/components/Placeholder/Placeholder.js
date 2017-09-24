@@ -6,7 +6,7 @@ import "./Placeholder.css";
 /**
  * Image placeholders.
  */
-export default class Placeholder extends Component {
+class Placeholder extends Component {
   static propTypes = {
     type: PropTypes.oneOf([
       "animal",
@@ -57,3 +57,5 @@ export default class Placeholder extends Component {
     );
   }
 }
+
+export default Placeholder;
