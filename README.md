@@ -17,6 +17,13 @@ Includes:
 ```
 git clone git@github.com:SaraVieira/react-styleguidist-boilerplate.git
 rm -rf .git
+yarn
+yarn start
+```
+
+## Update to your info
+
+```
 git remote add origin git@github.com:YourUsername/YourRepo.git
 ```
 
