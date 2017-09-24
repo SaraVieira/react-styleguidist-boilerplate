@@ -16,7 +16,7 @@
     "build": "styleguidist build",
     "lint": "eslint src",
     "jest": "jest --env=jsdom",
-    "test": "npm run lint && npm run test",
+    "test": "run-s lint jest",
     "eject": "react-scripts eject",
     "precommit": "lint-staged"
   },
@@ -36,6 +36,7 @@
     "identity-obj-proxy": "^3.0.0",
     "jest": "^21.1.0",
     "lint-staged": "^4.2.2",
+    "npm-run-all": "^4.1.1",
     "prettier": "^1.7.0",
     "react-styleguidist": "^6.0.25",
     "react-test-renderer": "^15.6.1",

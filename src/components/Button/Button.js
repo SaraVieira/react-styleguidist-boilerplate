@@ -6,7 +6,7 @@ import "./Button.css";
 /**
  * The only true button.
  */
-export default function Button({ color, size, onClick, children }) {
+const Button = ({ color, size, onClick, children }) => {
   const styles = {
     color,
     fontSize: Button.sizes[size]
@@ -17,7 +17,10 @@ export default function Button({ color, size, onClick, children }) {
       {children}
     </button>
   );
-}
+};
+
+export default Button;
+
 Button.propTypes = {
   /** Button label */
   children: PropTypes.string.isRequired,
