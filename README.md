@@ -16,6 +16,7 @@ Includes:
 
 ```
 git clone git@github.com:SaraVieira/react-styleguidist-boilerplate.git
+cd react-styleguidist-boilerplate
 rm -rf .git
 yarn
 yarn start
