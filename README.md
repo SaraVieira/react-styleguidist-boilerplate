@@ -1,6 +1,7 @@
 # React Styleguidist Boilerplate
 [![Build Status](https://travis-ci.org/SaraVieira/react-styleguidist-boilerplate.svg?branch=master)](https://travis-ci.org/SaraVieira/react-styleguidist-boilerplate)
 [![Greenkeeper badge](https://badges.greenkeeper.io/SaraVieira/react-styleguidist-boilerplate.svg)](https://greenkeeper.io/)
+[![styled with prettier](https://img.shields.io/badge/styled_with-prettier-ff69b4.svg)](https://github.com/prettier/prettier)
 
 Simple boilerplate to kickstart your styleguide endeavors with [React Styleguidist](https://react-styleguidist.js.org)
 
