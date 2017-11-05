@@ -3,6 +3,10 @@
 [![Greenkeeper badge](https://badges.greenkeeper.io/SaraVieira/react-styleguidist-boilerplate.svg)](https://greenkeeper.io/)
 [![styled with prettier](https://img.shields.io/badge/styled_with-prettier-ff69b4.svg)](https://github.com/prettier/prettier)
 
+<a target='_blank' rel='nofollow' href='https://app.codesponsor.io/link/TcwA1EShekGpPzRyQvGn9ysQ/SaraVieira/react-styleguidist-boilerplate'>
+  <img alt='Sponsor' width='888' height='68' src='https://app.codesponsor.io/embed/TcwA1EShekGpPzRyQvGn9ysQ/SaraVieira/react-styleguidist-boilerplate.svg' />
+</a>
+
 Simple boilerplate to kickstart your styleguide endeavors with [React Styleguidist](https://react-styleguidist.js.org)
 
 Includes:
