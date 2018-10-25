@@ -1,18 +1,18 @@
 module.exports = {
-  components: "src/components/**/[A-Z]*.js",
+  components: 'src/components/**/[A-Z]*.js',
   defaultExample: true,
-  title: "Styleguidist Boilerplate",
+  title: 'Styleguidist Boilerplate',
   webpackConfig: {
     module: {
       rules: [
         {
           test: /\.jsx?$/,
           exclude: /node_modules/,
-          loader: "babel-loader"
+          loader: 'babel-loader'
         },
         {
           test: /\.css$/,
-          loader: "style-loader!css-loader"
+          loader: 'style-loader!css-loader'
         }
       ]
     }

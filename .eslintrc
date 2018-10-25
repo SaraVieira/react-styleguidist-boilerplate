@@ -1,11 +1,4 @@
 {
-    "parser": "babel-eslint",
-    "extends": "prettier",
-    "plugins": [
-        "react",
-        "prettier"
-    ],
-    "rules": {
-        "prettier/prettier": "error"
-    }
+  "parser": "babel-eslint",
+  "plugins": ["react"]
 }
