@@ -4,7 +4,7 @@
   "author": "Sara Vieira",
   "license": "MIT",
   "dependencies": {
-    "@babel/preset-env": "^7.1.0",
+    "@babel/preset-env": "^7.1.5",
     "@babel/preset-react": "^7.0.0",
     "dog-names": "^1.0.2",
     "lodash": "^4.17.11",
