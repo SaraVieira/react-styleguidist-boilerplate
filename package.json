@@ -9,7 +9,7 @@
     "dog-names": "^1.0.2",
     "lodash": "^4.17.11",
     "prop-types": "^15.6.2",
-    "react": "^16.6.0",
+    "react": "^16.6.3",
     "react-dom": "^16.6.0",
     "react-scripts": "2.0.5"
   },
